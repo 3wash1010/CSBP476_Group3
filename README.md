@@ -30,6 +30,9 @@ o	Continuous sensor reading and conditional motor control
 o	Obstacle detection and reset behavior
 •	The robot handles two modes (mode = 1 or mode = 2) and uses conditional logic to react accordingly.
 
+Robotics project final.mblock
+• This file contains the Block-Based code used on the mBot that could be imported into the mBlock IDE
+
 Hardware Used
 •	mBot (MakeBlock)
 •	Ultrasonic Sensor
