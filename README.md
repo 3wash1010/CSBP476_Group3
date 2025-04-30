@@ -20,11 +20,11 @@ Flowchart
 • The flowchart illustrates our robot's decision-making logic for line tracking and obstacle detection.
 
 Video Demo 
-• The video contains the full demo of our robot performing in the competition arena. The last few seconds of the video contain the 'Obstacle detection and stop' task.
-• The youtube link is also provided in addtion to the attached video -> https://youtube.com/shorts/2UI09Hn9rG4?feature=share
+• The video contains the full demo of our robot performing in the competition arena. The last few seconds of the video include the 'Obstacle detection and stop' task.
+• The YouTube link is also provided in addition to the attached video -> https://youtube.com/shorts/2UI09Hn9rG4?feature=share
 
 Code Overview
-•	'Code' – Contains the full logic for:
+•	'Code' – Contains the complete logic for:
 o	Initialization of sensors and motors
 o	Mode selection
 o	Continuous sensor reading and conditional motor control
@@ -32,7 +32,7 @@ o	Obstacle detection and reset behavior
 •	The robot handles two modes (mode = 1 or mode = 2) and uses conditional logic to react accordingly.
 
 Robotics project final.mblock
-• This file contains the Block-Based code used on the mBot that could be imported into the mBlock IDE
+• This file contains the Block-Based code used on the mBot that can opened using the mBlock IDE
 
 Hardware Used
 •	mBot (MakeBlock)
@@ -48,4 +48,3 @@ Tasks Completed
 •	Resume after obstacle cleared
 •	Line following with adjustments for deviation
 •	Mode indication using LED and buzzer
-
