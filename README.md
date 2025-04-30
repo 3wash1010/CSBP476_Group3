@@ -20,7 +20,7 @@ Flowchart
 • The flowchart illustrates our robot's decision-making logic for line tracking and obstacle detection.
 
 Video Demo 
-• The video contains the full demo of our robot performing in the competition arena.
+• The video contains the full demo of our robot performing in the competition arena. The last few seconds of the video contain the 'Obstacle detection and stop' task.
 
 Code Overview
 •	'Code' – Contains the full logic for:
